@@ -17,7 +17,6 @@
 - Highly proficient on writing maintainable and scalable code
 - Familiar with mobile development life circle including CI CD , knowledge of git and scrum.
 
-<img align="right" alt="GIF" src="https://media.licdn.com/dms/image/v2/D4E03AQGl9u-0sCe7gg/profile-displayphoto-shrink_800_800/B4EZXzEGMzHUAg-/0/1743539714089?e=1756944000&v=beta&t=4-PBLSIgIxd2iXb832J2nfQY7WU0QcPBuqfpAJlZbRQ" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
