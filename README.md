@@ -22,7 +22,7 @@
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Mid Mobile Engineer**
+- 👨‍🎓 I'm a **Mobile Engineer**
 - 🔭 I’m currently working on Maystro (Okadoo-Team)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
