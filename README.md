@@ -28,7 +28,7 @@
   - Swift & stwiftUI , UIKit
   - iOS 
 - 📬 How to reach me: [mohamedmaiz9710@gmail.com](mohamedmaiz9710@gmail.com)
-
+<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 ---
 
 ## 🛠️ My Favourite tools
