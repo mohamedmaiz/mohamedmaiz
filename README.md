@@ -131,10 +131,3 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📕Latest Blog Posts
-
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
-
